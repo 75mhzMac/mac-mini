@@ -1,5 +1,5 @@
 # Mac mini G4 - 3x OS Install with OpenBSD
-
+![Mac mini with OpenBSD](pufferfish-mini.png)
 ## Requirements
 - Mac mini G4 with 1.25, 1.33, 1.42, 1.5 Ghz Processor
 - Mac mini OS 9.2 (V9) ISO burned to disk (Macintosh Garden) 
