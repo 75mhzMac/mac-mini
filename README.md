@@ -42,7 +42,7 @@ eject cd
 
 Enter the following into the prompt and press `Return`
 ```
-mac-boot
+reset-all
 ```
 If the installer disk isn't found during startup, reboot the computer and enter the Startup Manager using the `Option` key.
 
