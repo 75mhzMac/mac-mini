@@ -220,6 +220,7 @@ exec icewm
 ## Enable Xenodm
 This allows the window manager to run at startup.
 ```
+su
 rcctl enable xenodm
 ```
 
