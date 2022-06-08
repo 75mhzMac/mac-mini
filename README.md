@@ -135,9 +135,9 @@ Modify or abort? [Modify]
 ```
 
 ### Modifying The Apple Partition Map
-
+Note where your unformatted partition space is located. It should be partition number 6 on the list.
 ```
-Command: p   (Note where your unformatted partition space is located.)
+Command: p
 Command: t
 Partition number: 6 
 New type of partition: OpenBSD
@@ -155,7 +155,7 @@ Use (A)uto layout, (E)dit auto layout, or create (C)ustom layout? [a]
 Which disk do you want to initialize? [done]
 ```
 
-### Bring in the OpenBSD
+### Download OpenBSD to HD
 It is OK to use whatever server is automatically suggested.
 ```
 Location of sets? [http]
@@ -173,7 +173,7 @@ Location of sets? [done]
 Exit to shell? [reboot]
 ```
 
-## Setting a default OS
+## Setting A Default OS
 You can set OpenBSD to be the default OS at startup, using the `Option` key to choose between Mac OS versions.
 
 `Command`+`Option`+`O`+`F` 
@@ -323,7 +323,7 @@ Change the hex color to your liking.
 curl wttr.in/YourZipCode
 ```
 
-### Raspberry Pi owners
+### Raspberry Pi Owners
 Use tigervnc to connect to your pi to handle web browsing with RealVNC server enabled.
 
 
